@@ -1,0 +1,82 @@
+Menu={
+    "latte":{
+        "ingredients":{
+            "water":200,
+            "milk":150,
+            "coffee":24,
+        },
+        "cost":150,
+    },
+    "espresso":{
+        "ingredients":{
+            "water":50,
+            "coffee":18,
+        },
+        "cost":100,
+    },
+    "cappuccino":{
+        "ingredients":{
+            "water":250,
+            "milk":100,
+            "coffee":24,
+        },
+        "cost":200,
+    },
+    "americano":{
+        "ingredients":{
+            "water":50,
+            "milk":150,
+            "coffee":8,
+        },
+        "cost":250,
+    },
+    "flate white":{
+        "ingredients":{
+            "water":150,
+            "milk":200,
+            "coffee":50,
+        },
+        "cost":90,
+    },
+    "irish coffee":{
+        "ingredients":{
+            "water":200,
+            "coffee":45,
+        },
+        "cost":120,
+    },
+    "black coffee":{
+        "ingredients":{
+            "water":150,
+            "milk":180,
+            "coffee":60,
+        },
+        "cost":250,
+    },
+    "ristretto":{
+        "ingredients":{
+            "water":300,
+            "milk":200,
+            "coffee":100,
+        },
+        "cost":300,
+    },
+    "iced coffee":{
+        "ingredients":{
+            "water":150,
+            "milk":150,
+            "coffee":24,
+            "ice":20,
+        },
+        "cost":350,
+    },
+    "cold brew":{
+        "ingredients":{
+            "water":80,
+            "milk":200,
+            "coffee":50,
+            "ice":10
+        },
+        "cost":280,
+    }
+}
